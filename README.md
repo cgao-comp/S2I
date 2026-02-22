@@ -1,4 +1,6 @@
-# 
+# S2I
+
+The code related to the paper below: 
 Junjie Wu, Haotong Du, Haowei Xu, Xianghua Li, Chao Gao, Zhen Wang, Search to integrate multi-level heuristics with graph neural networks for multi-relational link prediction, Neurocomputing, 2025, 649: 130776
 ---
 ## Requirements
