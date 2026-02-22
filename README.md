@@ -1,4 +1,5 @@
-# Search to Integrate Multi-level Heuristics with Graph Neural Networks for Multi-relational Link Prediction
+# 
+Junjie Wu, Haotong Du, Haowei Xu, Xianghua Li, Chao Gao, Zhen Wang, Search to integrate multi-level heuristics with graph neural networks for multi-relational link prediction, Neurocomputing, 2025, 649: 130776
 ---
 ## Requirements
 ```text
